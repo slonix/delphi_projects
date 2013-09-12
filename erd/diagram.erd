@@ -1,0 +1,42 @@
+Przedmiot
+nazwa
+sala
+%
+2
+362
+88
+512
+163
+Podrêcznik
+autor
+tytu³
+%
+2
+553
+392
+703
+467
+Etap
+nazwa
+wydzia³
+%
+2
+104
+417
+254
+492
+$
+Przedmiot
+Podrêcznik
+lektura
+1
+*
+jest od
+ma
+Przedmiot
+Etap
+obejmuje
+*
+1
+sk³ada siê z
+jest czêœci¹
